@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="316.92001"
+   height="90"
+   viewBox="0 0 83.851751 23.812501"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Learn Logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="210.00144"
+     inkscape:cy="-39.035915"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Box" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-273.18748)"
+     style="opacity:1">
+    <g
+       id="g4553"
+       transform="translate(0,-0.37797619)">
+      <rect
+         y="274.0506"
+         x="0.53840107"
+         height="23.166931"
+         width="83.206306"
+         id="rect4496"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.64556903;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="matrix(0.9759784,0,0,0.9759784,0.18962785,7.3419029)"
+         id="g4544">
+        <rect
+           transform="translate(0,273.18748)"
+           style="opacity:0.66300001;fill:#00000f;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.62022102;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4490"
+           width="23.37978"
+           height="23.379778"
+           x="0.35735762"
+           y="0.26435244" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.06295967px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.65157402"
+           x="3.0781665"
+           y="294.64172"
+           id="text4487"><tspan
+             sodipodi:role="line"
+             id="tspan4485"
+             x="3.0781665"
+             y="294.64172"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.65157402">L</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.21523094px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.63038081"
+           x="25.338894"
+           y="290.23804"
+           id="text4494"
+           transform="scale(0.98626596,1.0139253)"><tspan
+             sodipodi:role="line"
+             id="tspan4492"
+             x="25.338894"
+             y="290.23804"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.63038081">earn</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

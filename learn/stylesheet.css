@@ -1,0 +1,146 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.clear {
+	clear: both;
+}
+
+.header {
+	background-color: rgba(200,200,200,0.9);
+	background-image: url("Images/rough.jpg");
+	background-size: cover;
+	height: 540px;
+	margin-top: 0px;
+	padding: 0px;
+}
+
+nav {
+	position: fixed;
+	width: 100%;
+	background-color: rgba(250, 250, 250, 0.2);
+}
+
+.btn {
+	display: inline-block; 
+	float: right;
+	margin: 10px;
+	padding: 10px;
+	border-style: solid;
+	border-color: rgba(0, 0, 0, 0.7);	
+	border-top: 0px;
+	border-bottom: 0px;
+}
+
+.footer {
+	background-color: rgba(200,200,200,0.9);
+	margin-top: 10px;
+	padding: 10px; 
+}
+
+.content {
+	width: 90%;
+	background-color: rgba(200,200,200,0.5);
+	margin: auto;
+	text-align: center;
+}
+
+.bt2 {
+	display: inline-block;
+	margin: 10px;
+	padding: 10px;
+	border-style: solid;
+	border-color: rgba(0, 0, 0, 0.7);
+	border-top: 0px;
+	border-bottom: 0px;
+}
+
+.logo {
+	margin: 0px;
+	padding: 10px;
+	display: inline-block;
+	float: left;
+}
+
+.flogo {
+	display: inline-block;
+	float: left;
+}
+
+#edulogo {
+	border-radius: 50%;
+}
+
+/*h1 {
+	text-align: center;
+	color: rgba(0, 0, 0, 0.9); 
+	padding-top: 250px;
+	margin-top: 0px;
+	font: Garamond;
+}*/
+
+.text {
+	text-align: center;
+	width: 70%;
+	margin: auto;
+}
+
+.container-wrap {
+	width: 95%;
+	background-color: 255, 255, 255, 0.6;
+}
+
+.course {
+	background-color: white;
+	width: 90%;
+	height: 50px;
+	margin: auto;
+}
+
+#userinfo {
+	width: 50%;
+	height: 200px;
+	background-color: black;
+	margin: auto;
+}
+
+.discQ {
+	background-color: red;
+	float: right;
+	width: 20%;
+}
+
+#cont2 {
+	text-align: center;
+	width: 80%;
+	float: left;
+	margin-top: 10px;
+}
+
+#video {
+	background-color: blue;
+	height: 150px;
+}
+
+#Readweek {
+	background-color: blue;
+	height: 100px;
+}
+
+#cnotes {
+	background-color: blue;
+	height: 100px;
+}
+
+.container2 {
+	text-align: center;
+	height: 100%;
+}
+
+.vertical-centering {
+	position: relative;
+	top: 50%;
+	color: white;
+	transform: translateY(-50%);
+}
